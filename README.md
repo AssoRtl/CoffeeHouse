@@ -18,4 +18,5 @@
 
     
   <b>Окно добавления товара БД<b/>
-![image](https://user-images.githubusercontent.com/106968938/219660907-b653824b-f4f4-457e-9da1-690d8ff60c5b.png)
+![image](https://user-images.githubusercontent.com/106968938/219851746-fb95bc07-9232-4d69-bace-a6bf0a24b73c.png)
+
